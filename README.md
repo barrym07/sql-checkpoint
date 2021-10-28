@@ -1,7 +1,7 @@
 # sql-checkpoint
 CHALLENGE 1
-Query: ![pic](./c1 query.png)
-Results: ![pic](./c1 result.png)
+Query: ![pic](c1 query.png)
+Results: ![pic](c1 result.png)
 
 CHALLENGE 2
 Query: ![pic](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
